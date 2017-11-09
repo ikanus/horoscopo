@@ -1,0 +1,44 @@
+#rituales {
+	margin: 0 auto;
+	background-color: #F1C583;
+	height: 100%;
+	padding:5px;
+}
+#rituales div {
+	border: 1px solid Black;
+	padding: 4px;
+	/*max-width: 350px;*/
+	border-radius: 4px;
+	text-align: center;
+	display:none;
+	font-size: 130%;
+	margin:0 auto;	
+}
+
+#rituales .signor  {
+	background-color: #fff;
+}
+
+
+
+#rituales #Signo{
+	margin: 3px; 
+	font-size: 120%;
+}
+
+
+
+#rituales h2 {
+	font-size: 120%;
+}
+
+#rituales a.btnRitual {
+	text-decoration: none;	
+	border: 1px solid #415E9C;
+	background-color: #415E9C;
+	color:#fff !important;
+	border-radius:4px;
+	padding:5px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
