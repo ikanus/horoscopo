@@ -1,0 +1,48 @@
+#compattool {
+	margin: 0 auto;
+}
+#compattool div {
+	border: 1px solid Black;
+	padding: 4px;
+	/*max-width: 350px;*/
+	border-radius: 4px;
+	text-align: center;
+	display:none;
+	font-size: 130%;
+}
+
+#compattool div#Aries,#compattool div#Tauro,#compattool div#Geminis,#compattool div#Cancer,
+#compattool div#Leo,#compattool div#Virgo,#compattool div#Libra,#compattool div#Escorpio,
+#compattool div#Sagitario, #compattool div#Capricornio,#compattool div#Acuario,#compattool div#Piscis  {
+	background-color: lightsalmon;
+}
+
+#compattool div.Aries,#compattool div.Tauro,#compattool div.Geminis,#compattool div.Cancer,
+#compattool div.Leo,#compattool div.Virgo,#compattool div.Libra,#compattool div.Escorpio,
+#compattool div.Sagitario,#compattool div.Capricornio,#compattool div.Acuario,#compattool div.Piscis  {
+	background-color: #fff;
+}
+
+#compattool #Signo1, #compattool #Signo2 {
+	margin: 3px; 
+	font-size: 120%;
+}
+
+#compattool #Signo1 {
+	float:left;
+}
+
+#compattool h2 {
+	font-size: 120%;
+}
+
+a.btnCompat {
+	text-decoration: none;	
+	border: 1px solid #415E9C;
+	background-color: #415E9C;
+	color:#fff !important;
+	border-radius:4px;
+	padding:5px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
